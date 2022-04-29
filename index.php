@@ -71,7 +71,7 @@
 			<div class="row clearfix">
             	
                 <!--Services Block Three-->
-                <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                <div class="services-block-three col-lg-3 col-md-6 col-sm-12">
                 	<div class="inner-box">
                     	<div class="icon-box">
                         	<span class="icon flaticon-chemistry-class-flask-with-liquid-for-experimentation"></span>
@@ -82,7 +82,7 @@
                 </div>
                 
                 <!--Services Block Three-->
-                <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                <div class="services-block-three col-lg-3 col-md-6 col-sm-12">
                 	<div class="inner-box">
                     	<div class="icon-box">
                         	<span class="icon flaticon-flash"></span>
@@ -93,7 +93,7 @@
                 </div>
                 
                 <!--Services Block Three-->
-                <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                <div class="services-block-three col-lg-3 col-md-6 col-sm-12">
                 	<div class="inner-box">
                     	<div class="icon-box">
                         	<span class="icon flaticon-fire-extinguisher"></span>
@@ -104,7 +104,7 @@
                 </div>
                 
                 <!--Services Block Four-->
-                <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                <div class="services-block-three col-lg-3 col-md-6 col-sm-12">
                 	<div class="inner-box">
                     	<div class="icon-box">
                         	<span class="icon flaticon-wrench"></span>
@@ -115,28 +115,86 @@
                 </div>
                 
                 <!--Services Block Four-->
-                <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                
+                
+            </div>
+        </div>
+    </section>
+    <section class="work-section" style="background-image:url(images/background/fundo_preto.png)">
+    	<div class="auto-container">
+        	<div class="sec-title centered light">
+            	<h2>Nosso Fluxo de Trabalho</h2>
+                <div class="separater"></div>
+            </div>
+            
+            <div class="row clearfix">
+            	
+                <!--Process Block-->
+                <div class="process-block col-lg-3 col-md-6 col-sm-12">
                 	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-branch-with-leaves-black-shape"></span>
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-light-bulb"></span>
+                                <div class="block-number">1</div>
+                            </div>
                         </div>
-                        <h3><a href="agriculture.html">Agriculture Engineering</a></h3>
-                        <div class="text">We provide Greate service</div>
+                        <div class="lower-box">
+                        	<h3><a href="solutions-detail.html">Desenvolver o Projeto</a></h3>
+                            <div class="text">People with ideas & experience to develop a vision for the future</div>
+                        </div>
                     </div>
                 </div>
                 
-                <!--Services Block Four-->
-                <div class="services-block-three col-lg-4 col-md-6 col-sm-12">
+                <!--Process Block-->
+                <div class="process-block col-lg-3 col-md-6 col-sm-12">
                 	<div class="inner-box">
-                    	<div class="icon-box">
-                        	<span class="icon flaticon-settings-2"></span>
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-settings-gears"></span>
+                                <div class="block-number">2</div>
+                            </div>
                         </div>
-                        <h3><a href="mechanical.html">Mechanical Engineering</a></h3>
-                        <div class="text">We provide Greate service</div>
+                        <div class="lower-box">
+                        	<h3><a href="solutions-detail.html">BUILD</a></h3>
+                            <div class="text">The right tools at the right time enhances the shard economy</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Process Block-->
+                <div class="process-block col-lg-3 col-md-6 col-sm-12">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon flaticon-envelope-2"></span>
+                                <div class="block-number">3</div>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="solutions-detail.html">CONNECT</a></h3>
+                            <div class="text">Intgrating clients with partners is the focus of everyday business</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Process Block-->
+                <div class="process-block col-lg-3 col-md-6 col-sm-12">
+                	<div class="inner-box">
+                    	<div class="upper-box">
+                        	<div class="icon-box">
+                            	<span class="icon fa fa-user-secret"></span>
+                                <div class="block-number">4</div>
+                            </div>
+                        </div>
+                        <div class="lower-box">
+                        	<h3><a href="solutions-detail.html">LANCH</a></h3>
+                            <div class="text">Bringing highly-anticipated programs to the marketplace</div>
+                        </div>
                     </div>
                 </div>
                 
             </div>
+            
         </div>
     </section>
 <?php include_once('_footer.php'); ?>
